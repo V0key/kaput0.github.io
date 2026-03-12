@@ -102,5 +102,5 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/V0key/kaput0.github.io.git
+  repo: https://github.com/V0key/V0key.github.io.git
   branch: main # lib branch name
